@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689746656510",
+    "firebase_url": "https://kjscehack-994df.firebaseio.com",
+    "project_id": "kjscehack-994df",
+    "storage_bucket": "kjscehack-994df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689746656510:android:3859d391f0b51f0c",
+        "android_client_info": {
+          "package_name": "com.sidhero.kjsce_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689746656510-5i1c6hq22imk2907orhe0ce6u8fnd7a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidhero.kjsce_hack",
+            "certificate_hash": "ff479b403d5aabad87da7483f0cec10b442860b5"
+          }
+        },
+        {
+          "client_id": "689746656510-ernhnin5soibtk6irtnknsmcvilbe52p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-YADztK2PVrCGKwbS-M6nw4CUhbTlcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689746656510-ernhnin5soibtk6irtnknsmcvilbe52p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
